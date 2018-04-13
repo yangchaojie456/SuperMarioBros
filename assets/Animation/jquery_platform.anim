@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "jquery_platform",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.3333333333333333,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": -324
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 200
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": -324
+        }
+      ]
+    }
+  },
+  "events": []
+}

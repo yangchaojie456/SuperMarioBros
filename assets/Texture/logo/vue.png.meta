@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d1a3bb36-3f45-4d3e-b460-c04cb23c7251",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "vue": {
+      "ver": "1.0.3",
+      "uuid": "d7746eb9-4dcd-40e7-9653-da4aa52a1396",
+      "rawTextureUuid": "d1a3bb36-3f45-4d3e-b460-c04cb23c7251",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 400,
+      "height": 345,
+      "rawWidth": 400,
+      "rawHeight": 345,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
